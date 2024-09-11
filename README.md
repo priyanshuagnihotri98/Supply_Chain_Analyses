@@ -1,8 +1,13 @@
 # Supply_Chain_Analyses
-Data analysis by using Power Bi build interactive dashboard that helps to fetching insights from the data
+Data analysis by using Python and Power Bi separately that includes to build interactive dashboard that helps to fetching insights from the data
 
 Data Upload and Cleaning:
-data import on power bi and then tranform on it that includes change data type, remove duplicates, handle null values.
+Data import and clean on python that includes remove null values, remove duplicates and handle outliers.
+get some important insights by using statistical functions like mean, median, std deviation etc.
+visualize some important information by using Matplotlib and seaborn libraries.
+pandas and Numpy used to import data and performed statistical functions.
+
+Separately, data imported on power bi and then tranform on it that includes change data type, remove duplicates, handle null values and build interactive dashboard that shows important insights.
 
 Key Findings:
 firm’s sells was declining from 2015 to 2017  but customer was continually increasing the reason behind that is firm’s discount that attracts more customers but also declining its profit per order.
